@@ -1,5 +1,6 @@
 <?php
 
-echo "hello world workshop ping"
+//echo "hello world workshop ping"
 
+header('location: /index.html')
 ?>
